@@ -1,6 +1,6 @@
 {
     'name': "Add file on expenses",
-    'version': '1.0',
+    'version': '9.0.1.0',
     'depends': ['hr_expense'],
     'author': "AbAKUS it-solutions SARL",
     'website': "http://www.abakusitsolutions.eu",
